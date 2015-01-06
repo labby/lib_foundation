@@ -1,7 +1,7 @@
 ###lib_foundation
 ============
 
-Semantic framework as a library for Content Management Systems [LEPTON CMS][1]<br />
+Foundation framework as a library for Content Management Systems [LEPTON CMS][1]<br />
 For details please see: http://foundation.zurb.com/index.html
 
 #### Requirements
