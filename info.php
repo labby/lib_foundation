@@ -34,7 +34,7 @@ if (defined('LEPTON_PATH')) {
 $module_directory = 'lib_foundation';
 $module_name      = 'Foundation Library';
 $module_function  = 'library';
-$module_version   = '1.5.5.0';
+$module_version   = '5.5.0.0';
 $module_platform  = '2.x';
 $module_delete	  =  true;
 $module_author    = 'cms-lab';
