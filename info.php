@@ -40,7 +40,7 @@ $module_delete	  =  true;
 $module_author    = 'cms-lab';
 $module_license   = 'http://opensource.org/licenses/MIT';
 $module_license_terms   = '-';
-$module_description = 'This module installs basic files Foundation (http://foundation.zurb.com/index.html).';
+$module_description = 'This module installs basic files <a href="http://foundation.zurb.com/index.html" target="_blank">Foundation Framework</a>.';
 $module_guid      = 'ad81934d-e21e-4884-b947-133805b7dbbe';
 $module_home      = 'http://www.cms-lab.com';
 
