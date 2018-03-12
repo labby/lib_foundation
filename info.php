@@ -4,7 +4,7 @@
  *  @module      	Library Foundation
  *  @version        see info.php of this module
  *  @author         cms-lab
- *  @copyright      2014-2015 CMS-LAB
+ *  @copyright      2014-2018 CMS-LAB
  *  @license        http://opensource.org/licenses/MIT
  *  @license terms  see info.php of this addon
  *  @platform       see info.php of this addon
@@ -34,7 +34,7 @@ if (defined('LEPTON_PATH')) {
 $module_directory = 'lib_foundation';
 $module_name      = 'Foundation Library';
 $module_function  = 'library';
-$module_version   = '5.5.2.1';
+$module_version   = '6.4.2.0';
 $module_platform  = '2.x';
 $module_delete	  =  true;
 $module_author    = 'cms-lab';

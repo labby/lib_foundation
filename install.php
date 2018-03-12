@@ -4,7 +4,7 @@
  *  @module      	Library Foundation
  *  @version        see info.php of this module
  *  @author         cms-lab
- *  @copyright      2014-2015 CMS-LAB
+ *  @copyright      2014-2018 CMS-LAB
  *  @license        http://opensource.org/licenses/MIT
  *  @license terms  see info.php of this addon
  *  @platform       see info.php of this addon
